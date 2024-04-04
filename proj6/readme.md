@@ -1,0 +1,1 @@
+Project 6 from CS 211 Spring 2023. Created a functional arithmetic logic unit with basic capabilities like add, subtract, multiply, divide. Explored binary arithmetic, using the concept of a bitfield for functionality.
